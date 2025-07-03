@@ -15,8 +15,7 @@ I'm a passionate programmer and technology enthusiast with hands-on experience i
 - 🔒 Developing secure authentication flows using **OAuth2 with PKCE**  
 
 📚 **Interests & Learning**  
-- Software architecture and scalable backend systems  
-- Machine learning for fraud detection  
+- Software architecture and scalable backend systems    
 - API integrations and microservices design  
 
 📫 **Let's Connect**  
